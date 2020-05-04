@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Bus_tour_main" target="11" />
+      <module name="Problems-Bus_tour_test" target="11" />
+      <module name="Problems-Check_prefix_ignoring_the_case_main" target="11" />
+      <module name="Problems-Check_prefix_ignoring_the_case_test" target="11" />
+      <module name="Problems-Javadoc_comment_main" target="11" />
+      <module name="Problems-Javadoc_comment_test" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_main" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_test" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_main" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
